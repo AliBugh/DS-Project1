@@ -1,14 +1,14 @@
 # The Movie Database (TMDB)
 
 ------
-1. [Libraries used ](#lab)
+1. [Installation ](#lab)
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#files)
 4. [Results](#results)
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 
-## 1. Libraries used <a name="lab"></a>
-
+## 1.Installation <a name="installation"></a>
+- Python versions 3.*.
 - Python Libraries:
     - Pandas.
     - numpy.
@@ -24,8 +24,9 @@ The aim of this project is to use the TMDB dataset to answer the following four 
 4. What’s the most profitable movie?
   
 ## 3. File Descriptions <a name="files"></a> 
-There are two file one notebook to showcase work related to the above questions.
-second csv file contain the dataset of TMDB.
+There are two file: 
+1. one notebook to showcase work related to the above questions.
+2. second csv file contain the dataset of TMDB.
 
 ## 4. Results <a name="results"></a> 
 Findings can be found at the post available [here](https://medium.com/@aalboughbar/the-movie-database-tmdb-a118f319ce10).
